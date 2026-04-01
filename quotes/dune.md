@@ -5,4 +5,8 @@
 <<<<<<< HEAD
 =======
 - "The spice must flow."
+<<<<<<< HEAD
 >>>>>>> 5e0a3c3 (H: updated dunes.md)
+=======
+- "Fear is the mind-killer."
+>>>>>>> 6e8be9c (I: updated dunes.md)
